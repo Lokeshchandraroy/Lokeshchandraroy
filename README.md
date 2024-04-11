@@ -14,7 +14,7 @@ On this page, you'll find a collection of my projects, blog posts, tutorials, an
 
 I love connecting with fellow developers and enthusiasts. If you have any questions, suggestions, or just want to say hi, feel free to reach out to me. You can find my contact information below:
 
-- Email: lokeshroy38205@gmail.com
+- Email: lokeshroy523@gmail.com
 - Twitter: https://twitter.com/Punnagai___02
 - LinkedIn: https://www.linkedin.com/in/lokesh-roy-829168243/
 
